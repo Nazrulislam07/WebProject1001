@@ -9,4 +9,5 @@ public class New01 {
 		System.out.print("\nI will always try to do my best");
 	}
 
+
 }
