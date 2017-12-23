@@ -17,5 +17,6 @@ c1=b1>a1;
 System.out.println("b1<a1 is " +(b1<a1));	
 System.out.println("b1>a1 is " +c1);
 
+
 	}
  }
