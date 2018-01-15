@@ -1,3 +1,4 @@
+
 package class_objects_method;
 
 public class Teacher {
